@@ -3,6 +3,7 @@ CS and AI Project 2026
 Artificial intelligence (AI) is technology that enables computers to perform tasks that usually require human intelligence, such as understanding language, recognizing images, or making decisions.
 
 Machine learning (ML) is a type of AI that allows computers to learn patterns from examples and use them to make predictions or decisions, rather than following only explicitly programmed rules.
+![Comparison Table AI vs ML vs DL vs DS.png]
 
 **How are they related?** AI is the broader field, while machine learning is one approach used to develop AI systems. Not all AI uses machine learning.
 
