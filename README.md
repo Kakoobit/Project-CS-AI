@@ -10,12 +10,12 @@ Machine learning (ML) is a type of AI that allows computers to learn patterns fr
 
 Two reliable educational sources
 
--IBM — What Is Artificial Intelligence (AI)?
+- IBM — What Is Artificial Intelligence (AI)?
 Explains AI, machine learning, and how they relate.
 Educational resource from IBM.
 Read IBM's AI explanation
 
--IBM — What Is Machine Learning?
+- IBM — What Is Machine Learning?
 Explains how machine learning works, including its relationship to AI and the email spam-filter example.
 Educational resource from IBM, updated October 2026.
 Read IBM's machine learning explanation
